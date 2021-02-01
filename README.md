@@ -1,6 +1,6 @@
-#Fetching data (title) from //https://www.reddit.com/r/space.json
+# Fetching data (title) from //https://www.reddit.com/r/space.json
 
-URL : -  https://react-app-de.herokuapp.com/
+## URL : -  https://react-app-de.herokuapp.com/
 
 
 
